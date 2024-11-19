@@ -12,8 +12,8 @@ This project is a Python application for creating e-books using AI agents. It ge
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ebook-creator.git
-   cd ebook-creator
+   git clone https://github.com/abhashthapa/ai-ebook-writer.git
+   cd ai-ebook-writer
    ```
 
 2. Install the dependencies:
