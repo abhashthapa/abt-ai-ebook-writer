@@ -1,12 +1,13 @@
 # E-Book Creator
 
-This project is a Python application for creating e-books using AI agents. It generates content, designs cover pages, and organizes chapters.
+This project is a command line Python application for creating e-books using AI agents. It generates table of content, content, designs cover pages for the book and each chapters, proofreads and exports into separate and merged MD and PDF files.
 
 ## Features
 
 - Generate e-book content using AI
 - Design cover pages with DALL-E 3
-- Organize chapters and proofread content
+- Organize chapters through TOC and proofread content
+- Export as a MD and PDF files
 
 ## Installation
 
@@ -36,8 +37,10 @@ or use this if "python" did not work
 ```bash
 ipython ebook_project.py
 ```
+--
 
 Follow the prompts to generate your e-book.
+
 
 ## License
 
