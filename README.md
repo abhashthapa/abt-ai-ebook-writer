@@ -1,4 +1,4 @@
-# E-Book Creator
+# ABT E-Book Creator
 
 This project is a command line Python application for creating e-books using AI agents. It generates table of content, content, designs cover pages for the book and each chapters, proofreads and exports into separate and merged MD and PDF files.
 
@@ -13,7 +13,7 @@ This project is a command line Python application for creating e-books using AI 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/abhashthapa/ai-ebook-writer.git
+   git clone https://github.com/abhashthapa/abt-ai-ebook-writer.git
    cd ai-ebook-writer
    ```
 
