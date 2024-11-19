@@ -9,6 +9,18 @@ This project is a command line Python application for creating e-books using AI 
 - Organize chapters through TOC and proofread content
 - Export as a MD and PDF files
 
+https://github.com/user-attachments/assets/b2f09db8-dd52-4a81-8e70-e478baf5a1c5
+
+<sup>50x speed, total duration: 10mins</sup>
+
+📖 Sample ebook generated
+
+[Design_Disruptors__Innovations_That_Changed_the_World.pdf](https://github.com/user-attachments/files/17820970/Design_Disruptors__Innovations_That_Changed_the_World.pdf)
+
+
+---
+
+
 ## Installation
 
 1. Clone the repository:
@@ -27,6 +39,9 @@ This project is a command line Python application for creating e-books using AI 
    cp .env.example .env
    ```
 
+---
+
+
 ## Usage
 
 Run the application:
@@ -37,9 +52,11 @@ or use this if "python" did not work
 ```bash
 ipython ebook_project.py
 ```
---
 
 Follow the prompts to generate your e-book.
+
+
+---
 
 
 ## License
