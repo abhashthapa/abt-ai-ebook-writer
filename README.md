@@ -32,6 +32,10 @@ Run the application:
 ```bash
 python ebook_project.py
 ```
+or use this if "python" did not work
+```bash
+ipython ebook_project.py
+```
 
 Follow the prompts to generate your e-book.
 
