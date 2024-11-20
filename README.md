@@ -28,7 +28,7 @@ https://github.com/user-attachments/assets/b2f09db8-dd52-4a81-8e70-e478baf5a1c5
 1. Clone the repository:
    ```bash
    git clone https://github.com/abhashthapa/abt-ai-ebook-writer.git
-   cd ai-ebook-writer
+   cd abt-ai-ebook-writer
    ```
 
 2. Install the dependencies:
