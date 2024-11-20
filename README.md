@@ -1,4 +1,4 @@
-# ABT E-Book Creator
+# ABT E-Book Writer
 
 This project is a command line Python application for creating e-books using AI agents. It generates table of content, content, designs cover pages for the book and each chapters, proofreads and exports into separate and merged MD and PDF files.
 
