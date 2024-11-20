@@ -2,7 +2,7 @@
 
 This project is a command line Python application for creating e-books using AI agents. It generates table of content, content, designs cover pages for the book and each chapters, proofreads and exports into separate and merged MD and PDF files.
 
-**Being a non-programmer, I used Aider and gpt-4o to produce this script.**
+**Being a non-programmer, I used [Aider](https://github.com/Aider-AI/aider) and gpt-4o to produce this script.**
 
 ## Features
 
