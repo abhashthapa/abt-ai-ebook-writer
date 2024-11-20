@@ -13,7 +13,7 @@ This project is a command line Python application for creating e-books using AI 
 
 https://github.com/user-attachments/assets/b2f09db8-dd52-4a81-8e70-e478baf5a1c5
 
-<sup>50x speed, total duration: 10mins</sup>
+<sup>50x speed, total generation duration: 10mins</sup>
 
 📖 Sample ebook generated
 
